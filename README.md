@@ -110,5 +110,5 @@ rate on a log scale. `girona_figs/` also has IMU and DVL detail figures.
 
 ## License
 
-Not yet chosen — see the repo owner before reuse. The Girona data set is **not** redistributed
-here and carries its own terms; fetch it from Zenodo and cite it as above.
+MIT — see [LICENSE](LICENSE). The Girona data set is **not** redistributed here and carries its
+own terms; fetch it from Zenodo and cite it as above.
