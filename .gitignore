@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Bag files are large (the Girona one is 377 MB) and belong to their
+# publishers, not this repo. See README for how to fetch it.
+*.bag
+data/
+
+# Figure output goes to whatever --out you pass; girona_figs/ IS tracked
+# because the README refers to those three images.

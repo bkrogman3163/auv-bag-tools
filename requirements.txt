@@ -1,0 +1,10 @@
+# Deliberately no ROS. `rosbags` is pure Python and reads rosbag1 (.bag) and
+# rosbag2 (directory) through one API, so this runs on an ordinary laptop.
+#
+# Floors, not pins — these are the versions the scripts were last verified
+# against (Python 3.14 on Windows, 2026-08-24):
+#   rosbags 0.11.4 · pandas 3.0.5 · matplotlib 3.11.1 · numpy 2.5.0
+rosbags>=0.11.4
+pandas>=2.0
+matplotlib>=3.7
+numpy>=1.24
